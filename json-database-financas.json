@@ -1,0 +1,184 @@
+{ 
+"financas": {
+  "{{uidUsuário}}" : {
+    "2020" : {
+      "11" : {
+        "-MxtIfvqYisZS1LD6NM9" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "5500"
+        },
+        "-MxtIxdis7OnOEsxr5Qd" : {
+          "descricao" : "Mecânico",
+          "tipo" : "despesa",
+          "valor" : "450"
+        },
+        "-MxtJ8i4GZWj_J4SFLIT" : {
+          "descricao" : "Gasolina",
+          "tipo" : "despesa",
+          "valor" : "150"
+        },
+        "-MxtJOHBR8VqvgbRPyh1" : {
+          "descricao" : "Bônus",
+          "tipo" : "receita",
+          "valor" : "639.40"
+        },
+        "-MxtJYnHlGALENu_Poa1" : {
+          "descricao" : "Consultoria externa",
+          "tipo" : "receita",
+          "valor" : "600.60"
+        }
+      },
+      "12" : {
+        "-MxtuSsPypV7GXSbO5ve" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "6500"
+        },
+        "-MxtuYrupUu6eTsSu-jr" : {
+          "descricao" : "Internet",
+          "tipo" : "despesa",
+          "valor" : "99.90"
+        },
+        "-MxtudiTdcVoOwSFWeXF" : {
+          "descricao" : "TV a cabo",
+          "tipo" : "despesa",
+          "valor" : "180.35"
+        },
+        "-MxtumPBUXD2MX7-NIA4" : {
+          "descricao" : "Plano internet móvel",
+          "tipo" : "despesa",
+          "valor" : "49.90"
+        },
+        "-Mxtv3fEjc1qsCrw_B0J" : {
+          "descricao" : "Energia elétrica",
+          "tipo" : "despesa",
+          "valor" : "236.25"
+        },
+        "-Mxtv9xtoL2r7gvz7e1z" : {
+          "descricao" : "Água",
+          "tipo" : "despesa",
+          "valor" : "135.33"
+        },
+        "-MxtvPQL8NcC-Z46bs2k" : {
+          "descricao" : "Supermercado",
+          "tipo" : "despesa",
+          "valor" : "324.73"
+        }
+      }
+    },
+    "2021" : {
+      "01" : {
+        "-MxtGxWiKaDMaQxvML_T" : {
+          "descricao" : "Creche",
+          "tipo" : "despesa",
+          "valor" : "450"
+        },
+        "-MxtH1URi1PgC4iYRAxq" : {
+          "descricao" : "Dentista",
+          "tipo" : "despesa",
+          "valor" : "299.90"
+        },
+        "-MxtHCXAstJfkYJUTvNf" : {
+          "descricao" : "Açougue",
+          "tipo" : "despesa",
+          "valor" : "79.90"
+        },
+        "-MxtHVYbbYuIsX3bPXGO" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "3330"
+        },
+        "-MxtHuVZdqJO9Kt0vekj" : {
+          "descricao" : "Participação de lucros",
+          "tipo" : "receita",
+          "valor" : "1500.18"
+        }
+      },
+      "02" : {
+        "-MxtwV0ps9i8nky2QW6w" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "5400"
+        },
+        "-MxtwhsJ7o_427-TtDS9" : {
+          "descricao" : "Consultoria",
+          "tipo" : "receita",
+          "valor" : "450"
+        },
+        "-Mxtx1-36p6or7fxu7JU" : {
+          "descricao" : "Farmácia",
+          "tipo" : "despesa",
+          "valor" : "287.45"
+        }
+      },
+      "08" : {
+        "-MxtFRIY7WCjgu5pmP6F" : {
+          "descricao" : "Internet",
+          "tipo" : "despesa",
+          "valor" : "129.90"
+        },
+        "-MxtFrhUdnt_hOR1v2Qn" : {
+          "descricao" : "Consulta médica",
+          "tipo" : "despesa",
+          "valor" : "650"
+        },
+        "-MxtGCGAnqS-p3BGC1nU" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "3000"
+        },
+        "-MxtGGfBQnpVIKBsZOAK" : {
+          "descricao" : "Hora extra",
+          "tipo" : "receita",
+          "valor" : "95.75"
+        }
+      },
+      "10" : {
+        "-MxtxQbh2o-lkh0ada_s" : {
+          "descricao" : "Salário",
+          "tipo" : "receita",
+          "valor" : "7400"
+        },
+        "-MxtxdmeSAsI1Ey_RNkU" : {
+          "descricao" : "Bônus",
+          "tipo" : "receita",
+          "valor" : "1463.65"
+        },
+        "-MxtxoIOhLt4BKqnwhgJ" : {
+          "descricao" : "Água",
+          "tipo" : "despesa",
+          "valor" : "72.97"
+        }
+      },
+      "11" : {
+        "-Mxty14M5qcZ0LWBQYHU" : {
+          "descricao" : "Bônus",
+          "tipo" : "receita",
+          "valor" : "1546.98"
+        },
+        "-MxtyAu0mYxJwOhy43Nq" : {
+          "descricao" : "Internet",
+          "tipo" : "despesa",
+          "valor" : "129.90"
+        },
+        "-MxtyKUsuwRf81Xcez9W" : {
+          "descricao" : "Energia elétrica",
+          "tipo" : "despesa",
+          "valor" : "265.38"
+        },
+        "-MxtzGGruVhcmsWYPACN" : {
+          "descricao" : "Restaurante",
+          "tipo" : "despesa",
+          "valor" : "117.69"
+        },
+        "-MxtzRcgGqTjc3WvGTQV" : {
+          "descricao" : "Curso",
+          "tipo" : "despesa",
+          "valor" : "100"
+        }
+      }
+    }
+  }
+ }
+}
